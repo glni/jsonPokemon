@@ -1,0 +1,25 @@
+html, body{margin: 0; font-family: "Open Sans", sans-serif}
+img{max-width: 100%;}
+
+.searchForm{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+}
+
+.searchForm div{
+	display: flex;
+	justify-content: center;
+}
+
+input#query, button#search{
+	padding: 0.5rem;
+}
+
+input#query{
+	width: 100%;
+}
+
+section#pokemonWrapper{
+}
